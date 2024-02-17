@@ -9,4 +9,3 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=pass
       - PGUSER=postgres
-    command: export COMPOSE_INTERACTIVE_NO_CLI=1
